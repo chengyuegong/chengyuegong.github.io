@@ -39,7 +39,6 @@ Contents
 * Memory Management and Paging
 * Linux System Calls
 * Userspace Benchmarking
-* Tracing the Linux Kernel
 * Loadable Kernel Modules
 * Process Family Tree
 * Completely Fair Scheduler (CFS)
