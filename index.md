@@ -57,8 +57,8 @@ Fall 2018 | Instructor: Roch Guerin | Team: Wentao Wang
 This is the coursework of _Introduction to Computer Networks_. ([View Code](https://github.com/chengyuegong/Computer-Networks))
 
 Contents
-* UDP MapClient and MapServer
-* TCP MapClient and MapServer
+* UDP Map
+* TCP Map
 * Distributed Hash Table (DHT)
 * Reliable Data Transfer (RDT) Protocol
 * Distributed Routing Algorithm
