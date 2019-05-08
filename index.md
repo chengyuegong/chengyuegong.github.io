@@ -29,6 +29,8 @@ Contents
 * Tuples, HeapPages, HeapFiles and Catalog
 * Relations and Queries
 * B+ Trees
+* BufferPool
+* MongoDB
 
 * * *
 
