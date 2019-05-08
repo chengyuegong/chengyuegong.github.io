@@ -13,6 +13,34 @@ Spring 2019 | Instructor: Todd Sproull | Team: Zixuan Li
 This is modified from the coursework of _Rapid Prototype Development and Creative Programming_.
 
 * File Sharing Site ([View Code](https://github.com/chengyuegong/File-Sharing-Site)) ([View Website](http://ec2-3-17-193-103.us-east-2.compute.amazonaws.com/~gcy1996/file-sharing-site/index.php))
+* New Site ([View Code]()) ([View Website]())
+* Calendar Site ([View Code]()) ([View Website]())
+* Chatroom Site ([View Code]()) ([View Website]())
+* Blog Site ([View Code]()) ([View Website]())
+
+* * *
+
+### Database Development
+Spring 2019 | Instructor: Douglas Shook | Team: Wentao Wang
+
+This is modified from the coursework of _Database Management Systems_. ([View Code]())
+
+Contents
+* Tuples, HeapPages, HeapFiles and Catalog
+* Relations and Queries
+* B+ Trees
+
+* * *
+
+### Pacman Game
+Spring 2019 | Instructor: William Yeoh
+
+This is modified from the coursework of _Introduction to Artificial Intelligence_. ([View Code]())
+
+Contents
+* General Search Algorithms (DFS, BFS, UCS, A*)
+* Adversarial Search Algorithms (Minimax, Alpha-Beta, Expectimax)
+* Reinforcement Learning (MDP, Q-learning)
 
 * * *
 
@@ -22,6 +50,7 @@ Fall 2018 | Instructor: Todd Sproull | Team: Tiancheng He, Junji Heng, Pengqiu M
 This is the final project of _Mobile Application Development_. ([View Code](https://github.com/chengyuegong/Instaurant))
 
 Instaurant is an iOS application for accessing the instant restaurant information. The information would be displayed on AR (Augmented Reality) Camera when the camera is aiming at the storefront of a resturant. The Firebase was chosen as the database of this application, which stored the resturant information. If the resturant is not in our database, the user is able to add one through our application by submitting the name, location, storefront picture, and the physical size of the storefront of that restaurant. The detailed data is retrieved from Yelp API.
+
 * * *
 
 ### iOS Development
