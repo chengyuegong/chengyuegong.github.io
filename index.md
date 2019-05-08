@@ -12,7 +12,7 @@ Spring 2019 | Instructor: Todd Sproull | Team: Zixuan Li
 
 This is modified from the coursework of _Rapid Prototype Development and Creative Programming_.
 
-* File Sharing Site ([View Code](https://github.com/chengyuegong/File-Sharing-Site)) ([View Website](http://ec2-3-17-140-54.us-east-2.compute.amazonaws.com/~gcy1996/file-sharing-site/index.php))
+* File Sharing Site ([View Code](https://github.com/chengyuegong/File-Sharing-Site)) ([View Website](http://ec2-3-17-193-103.us-east-2.compute.amazonaws.com/~gcy1996/file-sharing-site/index.php))
 
 * * *
 
